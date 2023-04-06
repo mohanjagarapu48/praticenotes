@@ -1,0 +1,1 @@
+new file4.txt is creted for two cmds
